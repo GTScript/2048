@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/agaevnatik/Visual Studio Code Projects/C/2048/2048",
+      "program": "/Users/agaevnatik/Visual Studio Code Projects/C/2048/2048/build/Debug/outDebug"
+    }
+  ]
+}
